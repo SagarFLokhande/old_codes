@@ -1,3 +1,5 @@
+# Please see LICENSE.md as well as the journals of the publications below for copyright information.
+
 Description of codes:
 
 1. SYK_corr_func.nb
